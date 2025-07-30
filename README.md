@@ -6,7 +6,7 @@ A simple and lightweight web app that allows users to switch between **Dark Mode
 
 ## 📸 Demo
 
-![Theme Changer Demo](https://via.placeholder.com/800x400.png?text=Add+a+demo+GIF+or+screenshot+here)
+![Theme Changer Demo](https://kshitijkatariya28.github.io/ThemeChanger/)
 
 
 ---
