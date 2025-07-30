@@ -4,10 +4,9 @@ A simple and lightweight web app that allows users to switch between **Dark Mode
 
 ---
 
-## 📸 Demo
+## 📺 Live Demo
 
-![Theme Changer Demo](https://kshitijkatariya28.github.io/ThemeChanger/)
-
+👉 [Click here to try it out](https://kshitijkatariya28.github.io/ThemeChanger/)
 
 ---
 
@@ -15,7 +14,7 @@ A simple and lightweight web app that allows users to switch between **Dark Mode
 
 - 🌙 Dark Mode & ☀️ Light Mode support
 - Responsive and accessible design
-- Vanilla JavaScript implementation (no frameworks)
+- Vanilla JavaScript (no frameworks)
 - Clean and beginner-friendly code structure
 
 
